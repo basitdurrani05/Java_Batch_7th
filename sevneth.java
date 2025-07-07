@@ -60,6 +60,20 @@ public class sevneth {
         // marks>=18 : Congrats : Mobile
         // Aagar nhi laatey : Kuch Nhi
 
+        // Answer
+
+        // int age = 12;
+
+        // if(age>=18){
+
+        //     System.out.println("Mobile");
+        // }
+
+        // else{
+
+        //     System.out.println("Kuch Nhi");
+        // }
+
 
 
 
