@@ -11,7 +11,7 @@ public class twelfth {
 
     public static void main(String[] args) {
 
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);   // Input
 
         System.out.println("Enter Array Elements : ");
         int []a = new int[5];
